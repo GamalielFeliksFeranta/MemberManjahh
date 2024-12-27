@@ -10,7 +10,7 @@
 
 <body>
     <div class="container mt-5">
-        <h1>Edit Anggota</h1>
+        <h1>Edit Anggotasss</h1>
         <form action="{{ route('members.update', $member->id) }}" method="POST">
             @csrf
             @method('PUT')

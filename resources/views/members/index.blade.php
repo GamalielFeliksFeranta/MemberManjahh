@@ -10,7 +10,7 @@
 
 <body>
     <div class="container mt-5">
-        <h1>Daftar Anggota</h1>
+        <h1>Daftar Anggotassss</h1>
         <a href="{{ route('members.create') }}" class="btn btn-primary mb-3">Tambah Anggota</a>
 
         @if (session('success'))

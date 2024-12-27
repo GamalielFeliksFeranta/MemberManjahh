@@ -10,7 +10,7 @@
 
 <body>
     <div class="container mt-5">
-        <h1>Tambah Anggota</h1>
+        <h1>Tambah Anggotasss</h1>
         <form action="{{ route('members.store') }}" method="POST">
             @csrf
             <div class="mb-3">
